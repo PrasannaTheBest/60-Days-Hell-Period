@@ -8,8 +8,8 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 0 |
-| **Latest Problem** | None |
+| **Total Problems Solved** | 5 |
+| **Latest Problem** | [Hollow Right Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Right%20Triangle%20Pattern.cpp) |
 | **Last Updated** | 2026-06-29 |
 
 ---
@@ -21,7 +21,7 @@ Below is the distribution of solved problems across various DSA topics:
 | Topic | Count | Status |
 | :--- | :---: | :--- |
 | **Arrays** | 0 | 🟥 Not Started |
-| **Strings** | 0 | 🟥 Not Started |
+| **Strings** | 1 | 🟩 In Progress |
 | **Linked List** | 0 | 🟥 Not Started |
 | **Stack** | 0 | 🟥 Not Started |
 | **Queue** | 0 | 🟥 Not Started |
@@ -37,11 +37,11 @@ Below is the distribution of solved problems across various DSA topics:
 | **Sliding Window** | 0 | 🟥 Not Started |
 | **Two Pointers** | 0 | 🟥 Not Started |
 | **Bit Manipulation** | 0 | 🟥 Not Started |
-| **Matrix** | 0 | 🟥 Not Started |
+| **Matrix** | 3 | 🟩 In Progress |
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
-| **Math** | 0 | 🟥 Not Started |
+| **Math** | 1 | 🟩 In Progress |
 | **Prefix Sum** | 0 | 🟥 Not Started |
 | **Hashing** | 0 | 🟥 Not Started |
 
