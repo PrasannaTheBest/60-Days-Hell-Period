@@ -8,9 +8,9 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 6 |
-| **Latest Problem** | [Inverted Spaces Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Spaces%20Pattern.cpp) |
-| **Last Updated** | 2026-06-29 |
+| **Total Problems Solved** | 7 |
+| **Latest Problem** | [Sum of Digits Until Single Digit](file:///e:/60%20Days%20Hell%20Period/Math/Sum%20of%20Digits%20Until%20Single%20Digit.cpp) |
+| **Last Updated** | 2026-06-30 |
 
 ---
 
@@ -41,7 +41,7 @@ Below is the distribution of solved problems across various DSA topics:
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
-| **Math** | 1 | 🟩 In Progress |
+| **Math** | 2 | 🟩 In Progress |
 | **Prefix Sum** | 0 | 🟥 Not Started |
 | **Hashing** | 0 | 🟥 Not Started |
 
