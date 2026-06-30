@@ -55,7 +55,7 @@ Here is the progress tracker mapping every single problem solved to its specific
 ```mermaid
 xychart-beta
     title "Problems Solved Per Day"
-    x-axis [Day 1 (06/26), Day 2 (06/27), Day 3 (06/28), Day 4 (06/29), Day 5 (06/30)]
+    x-axis ["Day 1 (06/26)", "Day 2 (06/27)", "Day 3 (06/28)", "Day 4 (06/29)", "Day 5 (06/30)"]
     y-axis "Problems" 0 --> 7
     bar [0, 0, 0, 6, 1]
 ```
