@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-
-// Function to check if a number is even or odd
 void checkevenodd(int n){
     if(n%2==0){
         cout<<"number is even"<<endl;
