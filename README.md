@@ -1,6 +1,6 @@
 # 🧠 60 Days Hell Period - DSA Tracker
 
-Welcome to my Data Structures and Algorithms (DSA) preparation repository! This space is dedicated to tracking my daily progress, coding challenges, and conceptual growth over a intensive 60-day sprint.
+Welcome to my Data Structures and Algorithms (DSA) preparation repository! This space is dedicated to tracking my daily progress, coding challenges, and conceptual growth over an intensive 60-day sprint.
 
 ---
 
@@ -8,9 +8,18 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 8 |
-| **Latest Problem** | [Right Triangle Number Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Right%20Triangle%20Number%20Pattern.cpp) |
-| **Last Updated** | 2026-07-06 |
+| **Total Problems Solved** | 9 |
+| **Latest Problem** | [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) |
+| **Last Updated** | 2026-07-13 |
+| **Countdown** | ⏳ **Day 43** (43 Days Remaining out of 60) |
+| **Total Days Elapsed** | 18 Days |
+| **Days Pushed (Active)** | 🟢 4 Days |
+| **Days Missed** | 🔴 14 Days |
+
+> [!WARNING]
+> **CRITICAL TRACKING WARNING:**
+> You have missed **14 days** out of the 18 days elapsed in this 60-day challenge!
+> Consistency is key to surviving the hell period. Try to push at least 1 solution every day to keep the streak going. 💪
 
 ---
 
@@ -37,7 +46,7 @@ Below is the distribution of solved problems across various DSA topics:
 | **Sliding Window** | 0 | 🟥 Not Started |
 | **Two Pointers** | 0 | 🟥 Not Started |
 | **Bit Manipulation** | 0 | 🟥 Not Started |
-| **Matrix** | 5 | 🟩 In Progress |
+| **Matrix** | 6 | 🟩 In Progress |
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
@@ -49,21 +58,21 @@ Below is the distribution of solved problems across various DSA topics:
 
 ## 📅 60-Day Timeline & Daily Activity Tracker
 
-Here is the progress tracker mapping every single problem solved to its specific day and date, starting from **June 26, 2026**.
+Here is the progress tracker mapping every single problem solved to its specific day and date in descending order, starting from **Day 60 (June 26, 2026)** down to **Day 1 (August 24, 2026)**.
 
 ### 📈 Daily Problem Count
 ```mermaid
 xychart-beta
     title "Problems Solved Per Day"
-    x-axis ["Day 1 (06/26)", "Day 2 (06/27)", "Day 3 (06/28)", "Day 4 (06/29)", "Day 5 (06/30)", "Day 6 (07/01)", "Day 7 (07/02)", "Day 8 (07/03)", "Day 9 (07/04)", "Day 10 (07/05)", "Day 11 (07/06)"]
+    x-axis ["Day 60 (06/26)", "Day 59 (06/27)", "Day 58 (06/28)", "Day 57 (06/29)", "Day 56 (06/30)", "Day 55 (07/01)", "Day 54 (07/02)", "Day 53 (07/03)", "Day 52 (07/04)", "Day 51 (07/05)", "Day 50 (07/06)", "Day 49 (07/07)", "Day 48 (07/08)", "Day 47 (07/09)", "Day 46 (07/10)", "Day 45 (07/11)", "Day 44 (07/12)", "Day 43 (07/13)"]
     y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
 ```
 
 ### 🍕 Topic Coverage Distribution
 ```mermaid
 pie title Topic Distribution
-    "Matrix" : 5
+    "Matrix" : 6
     "Math" : 2
     "Strings" : 1
 ```
@@ -72,17 +81,24 @@ pie title Topic Distribution
 
 | Day | Date | Problems Solved | Topic(s) | Daily Count | Cumulative Solved |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| **Day 1** | June 26, 2026 | Challenge Started! 🚀 | - | 0 | 0 |
-| **Day 2** | June 27, 2026 | - | - | 0 | 0 |
-| **Day 3** | June 28, 2026 | - | - | 0 | 0 |
-| **Day 4** | June 29, 2026 | 1. [Number Checks and Loops](file:///e:/60%20Days%20Hell%20Period/Math/Number%20Checks%20and%20Loops.cpp)<br>2. [Character to Lowercase](file:///e:/60%20Days%20Hell%20Period/Strings/Character%20to%20Lowercase.cpp)<br>3. [Hollow Square Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Square%20Pattern.cpp)<br>4. [Hollow Rectangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Rectangle%20Pattern.cpp)<br>5. [Hollow Right Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Right%20Triangle%20Pattern.cpp)<br>6. [Inverted Spaces Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Spaces%20Pattern.cpp) | Math, Strings, Matrix | 6 | 6 |
-| **Day 5** | June 30, 2026 | 7. [Sum of Digits Until Single Digit](file:///e:/60%20Days%20Hell%20Period/Math/Sum%20of%20Digits%20Until%20Single%20Digit.cpp) | Math | 1 | 7 |
-| **Day 6** | July 1, 2026 | - | - | 0 | 7 |
-| **Day 7** | July 2, 2026 | - | - | 0 | 7 |
-| **Day 8** | July 3, 2026 | - | - | 0 | 7 |
-| **Day 9** | July 4, 2026 | - | - | 0 | 7 |
-| **Day 10** | July 5, 2026 | - | - | 0 | 7 |
-| **Day 11** | July 6, 2026 | 8. [Right Triangle Number Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Right%20Triangle%20Number%20Pattern.cpp) | Matrix | 1 | 8 |
+| **Day 60** | June 26, 2026 | Challenge Started! 🚀 | - | 0 | 0 |
+| **Day 59** | June 27, 2026 | - | - | 0 | 0 |
+| **Day 58** | June 28, 2026 | - | - | 0 | 0 |
+| **Day 57** | June 29, 2026 | 1. [Number Checks and Loops](file:///e:/60%20Days%20Hell%20Period/Math/Number%20Checks%20and%20Loops.cpp)<br>2. [Character to Lowercase](file:///e:/60%20Days%20Hell%20Period/Strings/Character%20to%20Lowercase.cpp)<br>3. [Hollow Square Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Square%20Pattern.cpp)<br>4. [Hollow Rectangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Rectangle%20Pattern.cpp)<br>5. [Hollow Right Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Right%20Triangle%20Pattern.cpp)<br>6. [Inverted Spaces Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Spaces%20Pattern.cpp) | Math, Strings, Matrix | 6 | 6 |
+| **Day 56** | June 30, 2026 | 7. [Sum of Digits Until Single Digit](file:///e:/60%20Days%20Hell%20Period/Math/Sum%20of%20Digits%20Until%20Single%20Digit.cpp) | Math | 1 | 7 |
+| **Day 55** | July 1, 2026 | - | - | 0 | 7 |
+| **Day 54** | July 2, 2026 | - | - | 0 | 7 |
+| **Day 53** | July 3, 2026 | - | - | 0 | 7 |
+| **Day 52** | July 4, 2026 | - | - | 0 | 7 |
+| **Day 51** | July 5, 2026 | - | - | 0 | 7 |
+| **Day 50** | July 6, 2026 | 8. [Right Triangle Number Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Right%20Triangle%20Number%20Pattern.cpp) | Matrix | 1 | 8 |
+| **Day 49** | July 7, 2026 | - | - | 0 | 8 |
+| **Day 48** | July 8, 2026 | - | - | 0 | 8 |
+| **Day 47** | July 9, 2026 | - | - | 0 | 8 |
+| **Day 46** | July 10, 2026 | - | - | 0 | 8 |
+| **Day 45** | July 11, 2026 | - | - | 0 | 8 |
+| **Day 44** | July 12, 2026 | - | - | 0 | 8 |
+| **Day 43** | July 13, 2026 | 9. [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) | Matrix | 1 | 9 |
 
 ---
 
@@ -93,6 +109,8 @@ Every time a solution is added:
 2. **File Standardization**: Files are automatically renamed to `<Problem Name>.<extension>`.
 3. **Documentation**: Individual topic directories receive a `README.md` to index the questions.
 4. **Git Sync**: Changes are automatically committed and pushed to the remote repository.
+
+For more details on git branches, commands, and workflow, see the separate [Git Guide](file:///e:/60%20Days%20Hell%20Period/GIT_README.md).
 
 ---
 *Keep grinding. Consistency is key.* 💪
