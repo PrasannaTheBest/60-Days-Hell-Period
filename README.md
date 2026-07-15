@@ -8,17 +8,17 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 9 |
-| **Latest Problem** | [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) |
-| **Last Updated** | 2026-07-13 |
-| **Countdown** | ⏳ **Day 43** (43 Days Remaining out of 60) |
-| **Total Days Elapsed** | 18 Days |
-| **Days Pushed (Active)** | 🟢 4 Days |
-| **Days Missed** | 🔴 14 Days |
+| **Total Problems Solved** | 10 |
+| **Latest Problem** | [Diamond Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) |
+| **Last Updated** | 2026-07-15 |
+| **Countdown** | ⏳ **Day 41** (41 Days Remaining out of 60) |
+| **Total Days Elapsed** | 20 Days |
+| **Days Pushed (Active)** | 🟢 5 Days |
+| **Days Missed** | 🔴 15 Days |
 
 > [!WARNING]
 > **CRITICAL TRACKING WARNING:**
-> You have missed **14 days** out of the 18 days elapsed in this 60-day challenge!
+> You have missed **15 days** out of the 20 days elapsed in this 60-day challenge!
 > Consistency is key to surviving the hell period. Try to push at least 1 solution every day to keep the streak going. 💪
 
 ---
@@ -46,7 +46,7 @@ Below is the distribution of solved problems across various DSA topics:
 | **Sliding Window** | 0 | 🟥 Not Started |
 | **Two Pointers** | 0 | 🟥 Not Started |
 | **Bit Manipulation** | 0 | 🟥 Not Started |
-| **Matrix** | 6 | 🟩 In Progress |
+| **Matrix** | 7 | 🟩 In Progress |
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
@@ -64,15 +64,15 @@ Here is the progress tracker mapping every single problem solved to its specific
 ```mermaid
 xychart-beta
     title "Problems Solved Per Day"
-    x-axis ["Day 60 (06/26)", "Day 59 (06/27)", "Day 58 (06/28)", "Day 57 (06/29)", "Day 56 (06/30)", "Day 55 (07/01)", "Day 54 (07/02)", "Day 53 (07/03)", "Day 52 (07/04)", "Day 51 (07/05)", "Day 50 (07/06)", "Day 49 (07/07)", "Day 48 (07/08)", "Day 47 (07/09)", "Day 46 (07/10)", "Day 45 (07/11)", "Day 44 (07/12)", "Day 43 (07/13)"]
+    x-axis ["Day 60 (06/26)", "Day 59 (06/27)", "Day 58 (06/28)", "Day 57 (06/29)", "Day 56 (06/30)", "Day 55 (07/01)", "Day 54 (07/02)", "Day 53 (07/03)", "Day 52 (07/04)", "Day 51 (07/05)", "Day 50 (07/06)", "Day 49 (07/07)", "Day 48 (07/08)", "Day 47 (07/09)", "Day 46 (07/10)", "Day 45 (07/11)", "Day 44 (07/12)", "Day 43 (07/13)", "Day 42 (07/14)", "Day 41 (07/15)"]
     y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1]
 ```
 
 ### 🍕 Topic Coverage Distribution
 ```mermaid
 pie title Topic Distribution
-    "Matrix" : 6
+    "Matrix" : 7
     "Math" : 2
     "Strings" : 1
 ```
@@ -99,6 +99,8 @@ pie title Topic Distribution
 | **Day 45** | July 11, 2026 | - | - | 0 | 8 |
 | **Day 44** | July 12, 2026 | - | - | 0 | 8 |
 | **Day 43** | July 13, 2026 | 9. [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) | Matrix | 1 | 9 |
+| **Day 42** | July 14, 2026 | - | - | 0 | 9 |
+| **Day 41** | July 15, 2026 | 10. [Diamond Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) | Matrix | 1 | 10 |
 
 ---
 
