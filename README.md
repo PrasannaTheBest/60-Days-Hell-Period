@@ -10,16 +10,16 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 | :--- | :--- |
 | **Total Problems Solved** | 10 |
 | **Latest Problem** | [Diamond Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) |
-| **Last Updated** | 2026-07-15 |
-| **Countdown** | ⏳ **Day 41** (41 Days Remaining out of 60) |
-| **Total Days Elapsed** | 20 Days |
+| **Last Updated** | 2026-07-16 |
+| **Countdown** | ⏳ **Day 40** (40 Days Remaining out of 60) |
+| **Total Days Elapsed** | 21 Days |
 | **Days Pushed (Active)** | 🟢 5 Days |
-| **Days Missed** | 🔴 15 Days |
+| **Days with Pseudo Approach** | 🟡 14 Days |
+| **Days Missed** | 🔴 2 Days |
 
-> [!WARNING]
-> **CRITICAL TRACKING WARNING:**
-> You have missed **15 days** out of the 20 days elapsed in this 60-day challenge!
-> Consistency is key to surviving the hell period. Try to push at least 1 solution every day to keep the streak going. 💪
+> [!NOTE]
+> **TRACKING STATUS:**
+> You have active participation on **5 days** and pseudo approaches documented for **14 days** out of the 21 days elapsed. Keep converting those pseudo approaches into actual solutions! 🚀
 
 ---
 
@@ -64,9 +64,9 @@ Here is the progress tracker mapping every single problem solved to its specific
 ```mermaid
 xychart-beta
     title "Problems Solved Per Day"
-    x-axis ["Day 60 (06/26)", "Day 59 (06/27)", "Day 58 (06/28)", "Day 57 (06/29)", "Day 56 (06/30)", "Day 55 (07/01)", "Day 54 (07/02)", "Day 53 (07/03)", "Day 52 (07/04)", "Day 51 (07/05)", "Day 50 (07/06)", "Day 49 (07/07)", "Day 48 (07/08)", "Day 47 (07/09)", "Day 46 (07/10)", "Day 45 (07/11)", "Day 44 (07/12)", "Day 43 (07/13)", "Day 42 (07/14)", "Day 41 (07/15)"]
+    x-axis ["Day 60 (06/26)", "Day 59 (06/27)", "Day 58 (06/28)", "Day 57 (06/29)", "Day 56 (06/30)", "Day 55 (07/01)", "Day 54 (07/02)", "Day 53 (07/03)", "Day 52 (07/04)", "Day 51 (07/05)", "Day 50 (07/06)", "Day 49 (07/07)", "Day 48 (07/08)", "Day 47 (07/09)", "Day 46 (07/10)", "Day 45 (07/11)", "Day 44 (07/12)", "Day 43 (07/13)", "Day 42 (07/14)", "Day 41 (07/15)", "Day 40 (07/16)"]
     y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
 ```
 
 ### 🍕 Topic Coverage Distribution
@@ -82,25 +82,26 @@ pie title Topic Distribution
 | Day | Date | Problems Solved | Topic(s) | Daily Count | Cumulative Solved |
 | :---: | :---: | :--- | :--- | :---: | :---: |
 | **Day 60** | June 26, 2026 | Challenge Started! 🚀 | - | 0 | 0 |
-| **Day 59** | June 27, 2026 | - | - | 0 | 0 |
-| **Day 58** | June 28, 2026 | - | - | 0 | 0 |
+| **Day 59** | June 27, 2026 | 🟡 [Pseudo] [Fibonacci Series](file:///e:/60%20Days%20Hell%20Period/Math/Fibonacci%20Series%20(Pseudo).cpp) | Math | 0 | 0 |
+| **Day 58** | June 28, 2026 | 🟡 [Pseudo] [Reverse String](file:///e:/60%20Days%20Hell%20Period/Strings/Reverse%20String%20(Pseudo).cpp) | Strings | 0 | 0 |
 | **Day 57** | June 29, 2026 | 1. [Number Checks and Loops](file:///e:/60%20Days%20Hell%20Period/Math/Number%20Checks%20and%20Loops.cpp)<br>2. [Character to Lowercase](file:///e:/60%20Days%20Hell%20Period/Strings/Character%20to%20Lowercase.cpp)<br>3. [Hollow Square Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Square%20Pattern.cpp)<br>4. [Hollow Rectangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Rectangle%20Pattern.cpp)<br>5. [Hollow Right Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Hollow%20Right%20Triangle%20Pattern.cpp)<br>6. [Inverted Spaces Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Spaces%20Pattern.cpp) | Math, Strings, Matrix | 6 | 6 |
 | **Day 56** | June 30, 2026 | 7. [Sum of Digits Until Single Digit](file:///e:/60%20Days%20Hell%20Period/Math/Sum%20of%20Digits%20Until%20Single%20Digit.cpp) | Math | 1 | 7 |
-| **Day 55** | July 1, 2026 | - | - | 0 | 7 |
-| **Day 54** | July 2, 2026 | - | - | 0 | 7 |
-| **Day 53** | July 3, 2026 | - | - | 0 | 7 |
-| **Day 52** | July 4, 2026 | - | - | 0 | 7 |
-| **Day 51** | July 5, 2026 | - | - | 0 | 7 |
+| **Day 55** | July 1, 2026 | 🟡 [Pseudo] [Parallelogram Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Parallelogram%20Pattern%20(Pseudo).cpp) | Matrix | 0 | 7 |
+| **Day 54** | July 2, 2026 | 🟡 [Pseudo] [Check Prime](file:///e:/60%20Days%20Hell%20Period/Math/Check%20Prime%20(Pseudo).cpp) | Math | 0 | 7 |
+| **Day 53** | July 3, 2026 | 🟡 [Pseudo] [Check Palindrome](file:///e:/60%20Days%20Hell%20Period/Strings/Check%20Palindrome%20(Pseudo).cpp) | Strings | 0 | 7 |
+| **Day 52** | July 4, 2026 | 🟡 [Pseudo] [Rhombus Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Rhombus%20Pattern%20(Pseudo).cpp) | Matrix | 0 | 7 |
+| **Day 51** | July 5, 2026 | 🟡 [Pseudo] [Factorial Calculation](file:///e:/60%20Days%20Hell%20Period/Math/Factorial%20Calculation%20(Pseudo).cpp) | Math | 0 | 7 |
 | **Day 50** | July 6, 2026 | 8. [Right Triangle Number Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Right%20Triangle%20Number%20Pattern.cpp) | Matrix | 1 | 8 |
-| **Day 49** | July 7, 2026 | - | - | 0 | 8 |
-| **Day 48** | July 8, 2026 | - | - | 0 | 8 |
-| **Day 47** | July 9, 2026 | - | - | 0 | 8 |
-| **Day 46** | July 10, 2026 | - | - | 0 | 8 |
-| **Day 45** | July 11, 2026 | - | - | 0 | 8 |
-| **Day 44** | July 12, 2026 | - | - | 0 | 8 |
+| **Day 49** | July 7, 2026 | 🟡 [Pseudo] [Count Vowels and Consonants](file:///e:/60%20Days%20Hell%20Period/Strings/Count%20Vowels%20and%20Consonants%20(Pseudo).cpp) | Strings | 0 | 8 |
+| **Day 48** | July 8, 2026 | 🟡 [Pseudo] [Inverted Pyramid Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Pyramid%20Pattern%20(Pseudo).cpp) | Matrix | 0 | 8 |
+| **Day 47** | July 9, 2026 | 🟡 [Pseudo] [GCD of Two Numbers](file:///e:/60%20Days%20Hell%20Period/Math/GCD%20of%20Two%20Numbers%20(Pseudo).cpp) | Math | 0 | 8 |
+| **Day 46** | July 10, 2026 | 🟡 [Pseudo] [Anagram Check](file:///e:/60%20Days%20Hell%20Period/Strings/Anagram%20Check%20(Pseudo).cpp) | Strings | 0 | 8 |
+| **Day 45** | July 11, 2026 | 🟡 [Pseudo] [Pascal's Triangle](file:///e:/60%20Days%20Hell%20Period/Matrix/Pascal's%20Triangle%20(Pseudo).cpp) | Matrix | 0 | 8 |
+| **Day 44** | July 12, 2026 | 🟡 [Pseudo] [Leap Year Check](file:///e:/60%20Days%20Hell%20Period/Math/Leap%20Year%20Check%20(Pseudo).cpp) | Math | 0 | 8 |
 | **Day 43** | July 13, 2026 | 9. [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) | Matrix | 1 | 9 |
-| **Day 42** | July 14, 2026 | - | - | 0 | 9 |
+| **Day 42** | July 14, 2026 | 🟡 [Pseudo] [Length of String](file:///e:/60%20Days%20Hell%20Period/Strings/Length%20of%20String%20(Pseudo).cpp) | Strings | 0 | 9 |
 | **Day 41** | July 15, 2026 | 10. [Diamond Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) | Matrix | 1 | 10 |
+| **Day 40** | July 16, 2026 | - | - | 0 | 10 |
 
 ---
 
