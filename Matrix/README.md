@@ -12,3 +12,4 @@ This directory contains solutions related to 2D Arrays, Matrices, grid traversal
 | [Inverted Spaces Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Inverted%20Spaces%20Pattern.cpp) | C++ | Prints a triangular pattern of double spaces | Easy |
 | [Right Triangle Number Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Right%20Triangle%20Number%20Pattern.cpp) | C++ | Prints a right-angled triangle pattern of numbers from 0 to i | Easy |
 | [Floyds Triangle Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) | C++ | Prints a right-angled triangle pattern of sequential numbers | Easy |
+| [Diamond Pattern](file:///e:/60%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) | C++ | Prints a diamond pattern of stars/asterisks | Easy |
