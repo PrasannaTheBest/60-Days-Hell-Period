@@ -1,13 +1,13 @@
 # 🛠️ Git Branching & Repo Workflow Guide
 
-This document describes how this repository works, how to use Git branches, the command syntax, and the overall workflow for tracking the 60 Days Hell Period.
+This document describes how this repository works, how to use Git branches, the command syntax, and the overall workflow for tracking the 62 Days Hell Period.
 
 ---
 
 ## 1. How the Repo Tracking is Working
 
 This repository acts as an interactive progress ledger.
-* **Daily Ledger & Countdown:** The challenge is set up for 60 days, counting downwards from Day 60 to Day 1. The ledger acts as a tracker mapping every day to its corresponding date.
+* **Daily Ledger & Countdown:** The challenge is set up for 62 days, counting downwards from Day 62 to Day 1. The ledger acts as a tracker mapping every day to its corresponding date.
 * **Active vs. Missed Days:**
   * **Active Day:** A day where at least **1 code solution** is committed and pushed.
   * **Missed Day:** A day with **0 solutions** submitted. 
@@ -29,7 +29,7 @@ A branch represents an independent line of development. Think of it as a paralle
 ```mermaid
 gitGraph
     commit id: "Initial Commit"
-    commit id: "Day 60 Tracker"
+    commit id: "Day 62 Tracker"
     branch feature/floyds-triangle
     checkout feature/floyds-triangle
     commit id: "Add Floyd's C++ Code"
@@ -108,7 +108,7 @@ git pull origin main
 
 ### 🔄 Step-by-Step Daily Workflow Example
 
-When starting a new problem (e.g., solving Floyd's Triangle on Day 43):
+When starting a new problem (e.g., solving Floyd's Triangle on Day 45):
 
 1. **Keep main up-to-date:**
    ```bash
