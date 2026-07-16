@@ -11,9 +11,9 @@ This repository acts as an interactive progress ledger.
 * **Active vs. Missed Days:**
   * **Active Day:** A day where at least **1 code solution** is committed and pushed.
   * **Missed Day:** A day with **0 solutions** submitted. 
-  * If a day is missed, it counts toward the **Crucial Days Missed** statistic in the main [README.md](file:///e:/60%20Days%20Hell%20Period/README.md).
+  * If a day is missed, it counts toward the **Crucial Days Missed** statistic in the main [README.md](file:///e:/62%20Days%20Hell%20Period/README.md).
 * **Automated Structure:**
-  * Files are organized by topic (e.g., [Matrix](file:///e:/60%20Days%20Hell%20Period/Matrix), [Math](file:///e:/60%20Days%20Hell%20Period/Math), [Strings](file:///e:/60%20Days%20Hell%20Period/Strings)).
+  * Files are organized by topic (e.g., [Matrix](file:///e:/62%20Days%20Hell%20Period/Matrix), [Math](file:///e:/62%20Days%20Hell%20Period/Math), [Strings](file:///e:/62%20Days%20Hell%20Period/Strings)).
   * Inside each directory, a topic-specific `README.md` catalogues the difficulty and problem name.
   * Main statistics tables and Mermaid charts in the root `README.md` are updated to keep visual tracks of consistency and topic distributions.
 
@@ -139,3 +139,4 @@ When starting a new problem (e.g., solving Floyd's Triangle on Day 45):
    ```bash
    git branch -d feature/floyds-triangle
    ```
+
