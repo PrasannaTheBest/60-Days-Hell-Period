@@ -8,8 +8,8 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 11 |
-| **Latest Problem** | [Hollow Pyramid Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Pyramid%20Pattern.cpp) |
+| **Total Problems Solved** | 12 |
+| **Latest Problem** | [Spaced Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Spaced%20Diamond%20Pattern.cpp) |
 | **Last Updated** | 2026-07-16 |
 | **Countdown** | ⏳ **Day 42** (42 Days Remaining out of 62) |
 | **Total Days Elapsed** | 21 Days |
@@ -46,7 +46,7 @@ Below is the distribution of solved problems across various DSA topics:
 | **Sliding Window** | 0 | 🟥 Not Started |
 | **Two Pointers** | 0 | 🟥 Not Started |
 | **Bit Manipulation** | 0 | 🟥 Not Started |
-| **Matrix** | 8 | 🟩 In Progress |
+| **Matrix** | 9 | 🟩 In Progress |
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
@@ -66,13 +66,13 @@ xychart-beta
     title "Problems Solved Per Day"
     x-axis ["Day 62 (06/26)", "Day 61 (06/27)", "Day 60 (06/28)", "Day 59 (06/29)", "Day 58 (06/30)", "Day 57 (07/01)", "Day 56 (07/02)", "Day 55 (07/03)", "Day 54 (07/04)", "Day 53 (07/05)", "Day 52 (07/06)", "Day 51 (07/07)", "Day 50 (07/08)", "Day 49 (07/09)", "Day 48 (07/10)", "Day 47 (07/11)", "Day 46 (07/12)", "Day 45 (07/13)", "Day 44 (07/14)", "Day 43 (07/15)", "Day 42 (07/16)"]
     y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2]
 ```
 
 ### 🍕 Topic Coverage Distribution
 ```mermaid
 pie title Topic Distribution
-    "Matrix" : 8
+    "Matrix" : 9
     "Math" : 2
     "Strings" : 1
 ```
@@ -101,7 +101,7 @@ pie title Topic Distribution
 | **Day 45** | July 13, 2026 | 9. [Floyds Triangle Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Floyds%20Triangle%20Pattern.cpp) | Matrix | 1 | 9 |
 | **Day 44** | July 14, 2026 | 🟡 [Pseudo] [Length of String](file:///e:/62%20Days%20Hell%20Period/Strings/Length%20of%20String%20(Pseudo).cpp) | Strings | 0 | 9 |
 | **Day 43** | July 15, 2026 | 10. [Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) | Matrix | 1 | 10 |
-| **Day 42** | July 16, 2026 | 11. [Hollow Pyramid Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Pyramid%20Pattern.cpp) | Matrix | 1 | 11 |
+| **Day 42** | July 16, 2026 | 11. [Hollow Pyramid Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Pyramid%20Pattern.cpp)<br>12. [Spaced Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Spaced%20Diamond%20Pattern.cpp) | Matrix | 2 | 12 |
 
 ---
 
