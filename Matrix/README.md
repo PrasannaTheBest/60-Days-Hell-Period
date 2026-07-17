@@ -17,6 +17,7 @@ This directory contains solutions related to 2D Arrays, Matrices, grid traversal
 | [Spaced Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Spaced%20Diamond%20Pattern.cpp) | C++ | Prints a space-separated diamond pattern of stars | Easy |
 | [Hollow Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Diamond%20Pattern.cpp) | C++ | Prints a hollow diamond pattern of stars | Easy |
 | [Hollow Rhombus Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Rhombus%20Pattern.cpp) | C++ | Prints a hollow rhombus pattern of stars | Easy |
+| [Butterfly Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Butterfly%20Pattern.cpp) | C++ | Prints a butterfly pattern of stars | Easy |
 | [Parallelogram Pattern (Pseudo)](file:///e:/62%20Days%20Hell%20Period/Matrix/Parallelogram%20Pattern%20(Pseudo).cpp) | C++ | Prints a parallelogram pattern of N x M using stars | 🟡 Pseudo Approach |
 | [Rhombus Pattern (Pseudo)](file:///e:/62%20Days%20Hell%20Period/Matrix/Rhombus%20Pattern%20(Pseudo).cpp) | C++ | Prints a solid rhombus pattern of size N using stars | 🟡 Pseudo Approach |
 | [Inverted Pyramid Pattern (Pseudo)](file:///e:/62%20Days%20Hell%20Period/Matrix/Inverted%20Pyramid%20Pattern%20(Pseudo).cpp) | C++ | Prints an inverted pyramid pattern of size N using stars | 🟡 Pseudo Approach |
