@@ -8,18 +8,18 @@ Welcome to my Data Structures and Algorithms (DSA) preparation repository! This 
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Problems Solved** | 15 |
-| **Latest Problem** | [Butterfly Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Butterfly%20Pattern.cpp) |
-| **Last Updated** | 2026-07-16 |
-| **Countdown** | ⏳ **Day 42** (42 Days Remaining out of 62) |
-| **Total Days Elapsed** | 21 Days |
-| **Days Pushed (Active)** | 🟢 6 Days |
+| **Total Problems Solved** | 16 |
+| **Latest Problem** | [Number Bridge Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Number%20Bridge%20Pattern.cpp) |
+| **Last Updated** | 2026-07-17 |
+| **Countdown** | ⏳ **Day 41** (41 Days Remaining out of 62) |
+| **Total Days Elapsed** | 22 Days |
+| **Days Pushed (Active)** | 🟢 7 Days |
 | **Days with Pseudo Approach** | 🟡 14 Days |
 | **Days Missed** | 🔴 1 Day |
 
 > [!NOTE]
 > **TRACKING STATUS:**
-> You have active participation on **6 days** and pseudo approaches documented for **14 days** out of the 21 days elapsed. Keep converting those pseudo approaches into actual solutions! 🚀
+> You have active participation on **7 days** and pseudo approaches documented for **14 days** out of the 22 days elapsed. Keep converting those pseudo approaches into actual solutions! 🚀
 
 ---
 
@@ -46,7 +46,7 @@ Below is the distribution of solved problems across various DSA topics:
 | **Sliding Window** | 0 | 🟥 Not Started |
 | **Two Pointers** | 0 | 🟥 Not Started |
 | **Bit Manipulation** | 0 | 🟥 Not Started |
-| **Matrix** | 12 | 🟩 In Progress |
+| **Matrix** | 13 | 🟩 In Progress |
 | **Trie** | 0 | 🟥 Not Started |
 | **Segment Tree** | 0 | 🟥 Not Started |
 | **Disjoint Set** | 0 | 🟥 Not Started |
@@ -64,15 +64,15 @@ Here is the progress tracker mapping every single problem solved to its specific
 ```mermaid
 xychart-beta
     title "Problems Solved Per Day"
-    x-axis ["Day 62 (06/26)", "Day 61 (06/27)", "Day 60 (06/28)", "Day 59 (06/29)", "Day 58 (06/30)", "Day 57 (07/01)", "Day 56 (07/02)", "Day 55 (07/03)", "Day 54 (07/04)", "Day 53 (07/05)", "Day 52 (07/06)", "Day 51 (07/07)", "Day 50 (07/08)", "Day 49 (07/09)", "Day 48 (07/10)", "Day 47 (07/11)", "Day 46 (07/12)", "Day 45 (07/13)", "Day 44 (07/14)", "Day 43 (07/15)", "Day 42 (07/16)"]
+    x-axis ["Day 62 (06/26)", "Day 61 (06/27)", "Day 60 (06/28)", "Day 59 (06/29)", "Day 58 (06/30)", "Day 57 (07/01)", "Day 56 (07/02)", "Day 55 (07/03)", "Day 54 (07/04)", "Day 53 (07/05)", "Day 52 (07/06)", "Day 51 (07/07)", "Day 50 (07/08)", "Day 49 (07/09)", "Day 48 (07/10)", "Day 47 (07/11)", "Day 46 (07/12)", "Day 45 (07/13)", "Day 44 (07/14)", "Day 43 (07/15)", "Day 42 (07/16)", "Day 41 (07/17)"]
     y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 5]
+    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 5, 1]
 ```
 
 ### 🍕 Topic Coverage Distribution
 ```mermaid
 pie title Topic Distribution
-    "Matrix" : 12
+    "Matrix" : 13
     "Math" : 2
     "Strings" : 1
 ```
@@ -102,6 +102,7 @@ pie title Topic Distribution
 | **Day 44** | July 14, 2026 | 🟡 [Pseudo] [Length of String](file:///e:/62%20Days%20Hell%20Period/Strings/Length%20of%20String%20(Pseudo).cpp) | Strings | 0 | 9 |
 | **Day 43** | July 15, 2026 | 10. [Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Diamond%20Pattern.cpp) | Matrix | 1 | 10 |
 | **Day 42** | July 16, 2026 | 11. [Hollow Pyramid Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Pyramid%20Pattern.cpp)<br>12. [Spaced Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Spaced%20Diamond%20Pattern.cpp)<br>13. [Hollow Diamond Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Diamond%20Pattern.cpp)<br>14. [Hollow Rhombus Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Hollow%20Rhombus%20Pattern.cpp)<br>15. [Butterfly Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Butterfly%20Pattern.cpp) | Matrix | 5 | 15 |
+| **Day 41** | July 17, 2026 | 16. [Number Bridge Pattern](file:///e:/62%20Days%20Hell%20Period/Matrix/Number%20Bridge%20Pattern.cpp) | Matrix | 1 | 16 |
 
 ---
 
