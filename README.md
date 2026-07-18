@@ -60,13 +60,13 @@ Below is the distribution of solved problems across various DSA topics:
 
 Here is the progress tracker mapping every single problem solved to its specific day and date in descending order, starting from **Day 62 (June 26, 2026)** down to **Day 1 (August 26, 2026)**.
 
-### 📈 Daily Problem Count
+### 📈 Weekly Problem Count
 ```mermaid
 xychart-beta
-    title "Problems Solved Per Day"
-    x-axis ["Day 62 (06/26)", "Day 61 (06/27)", "Day 60 (06/28)", "Day 59 (06/29)", "Day 58 (06/30)", "Day 57 (07/01)", "Day 56 (07/02)", "Day 55 (07/03)", "Day 54 (07/04)", "Day 53 (07/05)", "Day 52 (07/06)", "Day 51 (07/07)", "Day 50 (07/08)", "Day 49 (07/09)", "Day 48 (07/10)", "Day 47 (07/11)", "Day 46 (07/12)", "Day 45 (07/13)", "Day 44 (07/14)", "Day 43 (07/15)", "Day 42 (07/16)", "Day 41 (07/17)", "Day 40 (07/18)"]
-    y-axis "Problems" 0 --> 7
-    bar [0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 5, 1, 1]
+    title "Weekly Problems Solved"
+    x-axis ["Week 1 (D62-56)", "Week 2 (D55-49)", "Week 3 (D48-42)", "Week 4 (D41-35)"]
+    y-axis "Problems" 0 --> 10
+    bar [7, 1, 7, 2]
 ```
 
 ### 🍕 Topic Coverage Distribution
